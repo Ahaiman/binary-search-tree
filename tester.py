@@ -1,7 +1,6 @@
+
 #Tester for the Binary_search_tree class
 #Copy this to the relevant file, or import the functions.
-
-
 
 def test():
     bin_tree = Binary_search_tree()
