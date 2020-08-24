@@ -1,5 +1,5 @@
 Tree is balanced:
 
-Binary is balanced if the following two conditions holds:
+Binary Tree is balanced if the following two conditions holds:
 1. The difference between the height of the left sub-tree and the height of the right sub-tree is at most 1
 2. Its left sub-tree and also its right sub-tree are balanced trees
