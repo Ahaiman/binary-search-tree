@@ -1,0 +1,8 @@
+Tree-is-sorted:
+
+
+The function returns "true" if for each node v :
+1) The value of the node (v.val) is greater then or equal to all the values ​​of the nodes belong to sub-tree with root v.left.
+2) The value of the node (v.val) is less than or equal to all the values ​​of the nodes belong to sub-tree with root v.right.
+
+In any other case, the function returns "false".
