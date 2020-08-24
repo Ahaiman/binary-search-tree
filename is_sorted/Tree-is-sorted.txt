@@ -1,8 +1,10 @@
 Tree-is-sorted:
 
-
 The function returns "true" if for each node v :
 1) The value of the node (v.val) is greater then or equal to all the values ​​of the nodes belong to sub-tree with root v.left.
 2) The value of the node (v.val) is less than or equal to all the values ​​of the nodes belong to sub-tree with root v.right.
 
 In any other case, the function returns "false".
+
+Note:
+In this implementation, the key and the value of a node are numbers between 0 to 100. You are welcome to change the limits as you wish by using Python's constants in Math library-   math.inf.
