@@ -1,0 +1,4 @@
+max_sum:
+
+
+The function returns the maximum sum of values(not keys) of nodes, ​​in any path from the root to a leaf in a tree.
