@@ -1,4 +1,4 @@
-#Add this for importing print tree funcion: from printree import *
+#Add this for importing print tree function: from printree import *
 
 class Tree_node():
     def __init__(self, key, val):
