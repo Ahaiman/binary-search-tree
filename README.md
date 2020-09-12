@@ -16,4 +16,4 @@ Additional methods:
 4) max_sum
 5) print_tree
 
-NOTICE: each folder, contains the function, a tester, an image and a txt file for explanation
+NOTICE: each folder, contains the function, a tester, an image and a .txt file for explanation
